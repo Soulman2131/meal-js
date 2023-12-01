@@ -74,9 +74,6 @@ img {
   border-radius: 1rem;
 }
 p {
-  padding: 0.2rem;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 8;
-  overflow: hidden;
+  padding: 1rem;
+  font-size: 1.2rem;
 }
